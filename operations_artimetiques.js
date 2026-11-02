@@ -7,10 +7,15 @@ console.log(n2-n3)
 console.log(n1*n2)
 console.log(n2/n3)
 console.log(n2%n1)
+console.log(n1**n3) // puissance    
 
 // l'addition dans différents cas
-12 + 12 = 24 // number +number
-12 + "12" = "1212" // number + string
-"5" * 6 = 30 // string * number
+//12 + 12 = 24 // number +number
+//12 + "12" = "1212" // number + string
+//"5" * 6 = 30 // string * number
 "bonjour" + " tout le monde" = "bonjour tout le monde" // string + string
+console.log("bonjour" + " tout le monde") 
 
+
+console.log("la valeur de n1 est : " + n1) // concaténation
+console.log("la valeur de n2 est : §{n2}") // interpolation
