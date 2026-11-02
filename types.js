@@ -10,4 +10,3 @@ console.log(typeof a);
 console.log(typeof b); 
 console.log(typeof c); 
 
-// les 5 operateurs  arithmetiques  en  javascript : + , - , * , / , %
