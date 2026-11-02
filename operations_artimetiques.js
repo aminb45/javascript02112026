@@ -13,7 +13,7 @@ console.log(n1**n3) // puissance
 //12 + 12 = 24 // number +number
 //12 + "12" = "1212" // number + string
 //"5" * 6 = 30 // string * number
-"bonjour" + " tout le monde" = "bonjour tout le monde" // string + string
+// "bonjour" + " tout le monde" = "bonjour tout le monde" // string + string
 console.log("bonjour" + " tout le monde") 
 
 
