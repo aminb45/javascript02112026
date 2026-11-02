@@ -3,8 +3,11 @@
 
 let a = 10; // number
 let b = "hello"; // string
-let c = true; // boolean    
+let c = true; // boolean 
+  
 
 console.log(typeof a);
 console.log(typeof b); 
 console.log(typeof c); 
+
+// les 5 operateurs  arithmetiques  en  javascript : + , - , * , / , %
