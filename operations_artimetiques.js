@@ -7,3 +7,10 @@ console.log(n2-n3)
 console.log(n1*n2)
 console.log(n2/n3)
 console.log(n2%n1)
+
+// l'addition dans différents cas
+12 + 12 = 24 // number +number
+12 + "12" = "1212" // number + string
+"5" * 6 = 30 // string * number
+"bonjour" + " tout le monde" = "bonjour tout le monde" // string + string
+
